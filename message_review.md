@@ -23,7 +23,7 @@
 While the message is already effective, here are some optional enhancements:
 
 1. **Add specificity about timing**:
-   - "PC of CSO3 in LS1A has been reported to be malfunctioning as of [date/time]."
+   - "PC of CSO3 in LS1A has been reported to be malfunctioning as of [Date/Time]."
 
 2. **Clarify acronyms** (if the audience may not be familiar):
    - Consider briefly explaining CSO3 and LS1A if not commonly known
